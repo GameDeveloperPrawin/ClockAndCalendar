@@ -1,0 +1,15 @@
+*.html linguist-detectable=false
+*.vert linguist-detectable=false
+*.tesc linguist-detectable=false
+.tese linguist-detectable=false
+.geom linguist-detectable=false
+.frag linguist-detectable=false
+.comp linguist-detectable=false
+.mesh linguist-detectable=false
+.task linguist-detectable=false
+.rgen linguist-detectable=false
+.rint linguist-detectable=false
+.rahit linguist-detectable=false
+.rchit linguist-detectable=false
+.rmiss linguist-detectable=false
+.rcall linguist-detectable=false
